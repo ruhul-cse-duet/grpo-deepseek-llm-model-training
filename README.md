@@ -24,6 +24,13 @@ This project implements a reinforcement learning pipeline to train large languag
 | Language Consistency | 8% | 94% |
 | Average Reward | -2.1 | +8.3 |
 
+## 📝 References
+
+[GRPO Paper](https://arxiv.org/abs/2402.03300)
+[DeepSeek-R1 Documentation](https://github.com/deepseek-ai/DeepSeek-R1)
+[Unsloth Library](https://github.com/unslothai/unsloth)
+[Open-R1 Math Dataset](https://huggingface.co/datasets/open-r1/DAPO-Math-17k-Processed)
+
 ## 🚀 Quick Start
 
 ### Installation
