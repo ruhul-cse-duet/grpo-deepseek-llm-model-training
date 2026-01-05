@@ -26,9 +26,9 @@ This project implements a reinforcement learning pipeline to train large languag
 
 ## 📝 References
 
-[GRPO Paper](https://arxiv.org/abs/2402.03300)
-[DeepSeek-R1 Documentation](https://github.com/deepseek-ai/DeepSeek-R1)
-[Unsloth Library](https://github.com/unslothai/unsloth)
+[GRPO Paper](https://arxiv.org/abs/2402.03300)\
+[DeepSeek-R1 Documentation](https://github.com/deepseek-ai/DeepSeek-R1)\
+[Unsloth Library](https://github.com/unslothai/unsloth)\
 [Open-R1 Math Dataset](https://huggingface.co/datasets/open-r1/DAPO-Math-17k-Processed)
 
 ## 🚀 Quick Start
